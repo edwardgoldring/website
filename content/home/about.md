@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Political Science"
   institution = "University of Missouri"
-  year = 2020 (expected)
+  year = 2020
 
 [[education.courses]]
   course = "MA in Intelligence and International Security"
