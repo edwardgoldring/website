@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-Edward Goldring is a doctoral candidate in political science at the University of Missouri.
+Edward Goldring is a doctoral candidate in political science at the University of Missouri. His research interests include
