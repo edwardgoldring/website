@@ -1,6 +1,6 @@
 
 +++
-title = "Fighting for a Nanem on the Ballot: Constituency-Level Analysis of Nomination Violence in Africa"
+title = "Fighting for a Name on the Ballot: Constituency-Level Analysis of Nomination Violence in Africa"
 
 # Date first published.
 date = "2017-11-10"
@@ -31,7 +31,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
