@@ -35,4 +35,6 @@ weight = 5
 
 # Biography
 
-Edward Goldring is a doctoral candidate in political science at the University of Missouri. His research interests include
+I am a PhD Candidate in Political Science at the University of Missouri. My research examines how autocratic leaders maintain and lose power. As a comparativist, I also have specific area expertise in North Korea. I have related research interests in democratization more broadly, election manipulation, and peacekeeping. My dissertation explores purges in authoritarian regimes, looking at when leaders decide to purge and various effects of purges.
+
+My work has been published or is forthcoming in journals including Democratization and Africa Spectrum, while I have also written for the Washington Post. 
