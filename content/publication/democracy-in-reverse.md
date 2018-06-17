@@ -19,7 +19,7 @@ authors = ["Edward Goldring", "Michael Wahman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Health Economics*"
+publication = "*Africa Spectrum*"
 publication_short = ""
 
 # Abstract and optional shortened version.
