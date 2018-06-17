@@ -5,7 +5,7 @@ title = "Democracy in Reverse: The 2016 General Election in Zambia"
 date = "2016-12-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Edward Goldring Goldring", "Michael Wahman"]
+authors = ["Edward Goldring", "Michael Wahman"]
 
 # Publication type.
 # Legend:
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://journals.sub.uni-hamburg.de/giga/afsp/article/view/990"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
