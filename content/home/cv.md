@@ -13,5 +13,5 @@ weight = 69
 # Automatically link email and phone?
 autolink = true
 
-# widgets = true
+widgets = true
 +++
