@@ -23,10 +23,10 @@ album = "1"
 image = "pan.jpg"
 caption = "Visiting Panmunjom (North Korea-South Korea - 2017)."
 
-# [[gallery_item]]
-# album = "1"
-# image = "blue.jpg"
-# caption = "Visiting the Presidential Blue House (Seoul, South Korea - 2017)."
+[[gallery_item]]
+album = "1"
+image = "blue.jpg"
+caption = "Visiting the Presidential Blue House (Seoul, South Korea - 2017)."
 
 # [[gallery_item]]
 # album = "1"
