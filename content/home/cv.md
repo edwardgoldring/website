@@ -8,7 +8,7 @@ title = "CV"
 # subtitle = ""
 
 # Order that this section will appear in.
-weight = 69
+weight = 68
 
 # Automatically link email and phone?
 # autolink = true
