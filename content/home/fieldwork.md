@@ -16,7 +16,7 @@ caption = "Conducting surveys on election violence with domestic election observ
 [[gallery_item]]
 album = "1"
 image = "pan.jpg"
-caption = "Visiting Panmunjom (North Korea-South Korea - 2017)."
+caption = "Visiting Panmunjom (North Korea-South Korea border - 2017)."
 
 [[gallery_item]]
 album = "1"
