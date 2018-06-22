@@ -15,4 +15,4 @@ weight = 69
 
 # widgets = true
 +++
-{{% staticref "files/cv" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
