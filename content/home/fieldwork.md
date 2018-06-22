@@ -30,18 +30,13 @@ caption = "Visiting the Presidential Blue House (Seoul, South Korea - 2017)."
 
 [[gallery_item]]
 album = "1"
-image = "kang.jpg"
-caption = "Interviewing Kang Chol-Hwan - author of "The Aquariums of Pyongyang" (Seoul, South Korea - 2018)."
-
-[[gallery_item]]
-album = "1"
 image = "ipsa.jpg"
 caption = "Lab Instructor for a course on Spatial Econometrics at IPSA's Summer School (São Paulo, Brazil - 2018)."
 
-# [[gallery_item]]
-# album = "1"
-# image = "kang.jpg"
-# caption = "Interviewing Kang Chol-Hwan - author of "The Aquariums of Pyongyang" (Seoul, South Korea - 2018)."  
+[[gallery_item]]
+album = "1"
+image = "kang.jpg"
+caption = "Interviewing Kang Chol-Hwan - author of 'The Aquariums of Pyongyang' (Seoul, South Korea - 2018)."
 
 +++
 
