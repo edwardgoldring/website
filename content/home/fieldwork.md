@@ -28,10 +28,10 @@ album = "1"
 image = "blue.jpg"
 caption = "Visiting the Presidential Blue House (Seoul, South Korea - 2017)."
 
-# [[gallery_item]]
-# album = "1"
-# image = "ipsa.jpg"
-# caption = "Lab Instructor for a course on Spatial Econometrics at IPSA's Summer School (Sao Paulo, Brazil - 2018)."
+[[gallery_item]]
+album = "1"
+image = "ipsa.jpg"
+caption = "Lab Instructor for a course on Spatial Econometrics at IPSA's Summer School (Sao Paulo, Brazil - 2018)."
 
 # [[gallery_item]]
 # album = "1"
