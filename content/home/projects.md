@@ -41,4 +41,5 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-text
+"'Should We Talk About the Weather?' How Party Competition and Coalition Participation Influence Parties' Attention to Economic Issues" (with Beomseob 'Brandon' Park and Laron K. Williams). Invited to revise and rebsubmit at 'Party Politics.'
+
