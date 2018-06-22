@@ -6,7 +6,7 @@ date = 2017-01-01
 title = "Fieldwork"
 
 # Order that this section will appear in.
-weight = 68
+weight = 67
 
 [[gallery_item]]
 album = "1"
