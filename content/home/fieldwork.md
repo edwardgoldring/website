@@ -8,3 +8,7 @@ title = "Fieldwork"
 # Order that this section will appear in.
 weight = 68
 +++
+[[gallery_item]]
+album = "1"
+image = "zambia.jpg"
+caption = "Conducting surveys with election observers (Lusaka, Zambia - 2016)."
