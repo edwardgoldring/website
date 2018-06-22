@@ -15,11 +15,11 @@ weight = 60
 
 +++
 *Lab Instructor*  
-IPSA-USP: Basics of Spatial Interdependence in Theory and Practice, Spring 2018.
-PS3000 - Introduction to Political Research, Fall 2017.
-PS2700 - Comparative Political Systems, Fall 2016.
+IPSA-USP: Basics of Spatial Interdependence in Theory and Practice, Spring 2018.  
+PS3000 - Introduction to Political Research, Fall 2017.  
+PS2700 - Comparative Political Systems, Fall 2016.  
 
-*Teaching Assistant*
-PS4700 - America's Wars in Asia, Spring 2017.
-PS4770 - Comparative Political Behavior, Spring 2016.
-PS1100 - American Government, Fall 2015.
+*Teaching Assistant*  
+PS4700 - America's Wars in Asia, Spring 2017.  
+PS4770 - Comparative Political Behavior, Spring 2016.  
+PS1100 - American Government, Fall 2015.  
