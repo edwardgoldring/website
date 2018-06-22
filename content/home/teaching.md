@@ -16,7 +16,7 @@ weight = 60
 +++
 *Lab Instructor*  
 IPSA-USP: Basics of Spatial Interdependence in Theory and Practice, Spring 2018.  
-    {{% staticref "files/evaluations-eg.pdf" %}}Teaching evaluation.{{% /staticref %}}  
+        {{% staticref "files/evaluations-eg.pdf" %}}Teaching evaluation.{{% /staticref %}}  
 PS3000 - Introduction to Political Research, Fall 2017.  
 PS2700 - Comparative Political Systems, Fall 2016.  
 
