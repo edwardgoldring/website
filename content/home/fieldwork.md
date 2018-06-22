@@ -18,10 +18,10 @@ album = "1"
 image = "nk.jpg"
 caption = "A peak into North Korea (North Korea-South Korea border - 2017)."
 
-# [[gallery_item]]
-# album = "1"
-# image = "pan.jpg"
-# caption = "Visiting Panmunjom (North Korea-South Korea - 2017)."
+[[gallery_item]]
+album = "1"
+image = "pan.jpg"
+caption = "Visiting Panmunjom (North Korea-South Korea - 2017)."
 
 # [[gallery_item]]
 # album = "1"
