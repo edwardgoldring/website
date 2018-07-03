@@ -19,7 +19,7 @@ image = "pan.jpg"
 caption = "Visiting Panmunjom (North Korea-South Korea border - 2017)."
 
 [[gallery_item]]
-album = "1"
+album = "2"
 image = "ipsa.jpg"
 caption = "Lab Instructor for a course on Spatial Econometrics at IPSA's Summer School (São Paulo, Brazil - 2018)."
 
