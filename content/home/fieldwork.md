@@ -24,7 +24,7 @@ image = "ipsa.jpg"
 caption = "Lab Instructor for a course on Spatial Econometrics at IPSA's Summer School (São Paulo, Brazil - 2018)."
 
 [[gallery_item]]
-album = "1"
+album = "2"
 image = "kang.jpg"
 caption = "Interviewing Kang Chol-Hwan - Founder of the North Korea Strategy Center (Seoul, South Korea - 2018)."
 
@@ -32,3 +32,6 @@ caption = "Interviewing Kang Chol-Hwan - Founder of the North Korea Strategy Cen
 
 
 {{< gallery album="1" >}}
+
+
+{{< gallery album="2" >}}
