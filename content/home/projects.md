@@ -43,7 +43,7 @@ filter_default = 0
 +++
 "'Should We Talk About the Weather?' How Party Competition and Coalition Participation Influence Parties' Attention to Economic Issues" (with Beomseob 'Brandon' Park and Laron K. Williams). *Invited to revise and resubmit at 'Party Politics.'*
 
-"State Personnel Contributions to Peacekeeping Operations and Civilian Protection" (with Michael Hendricks). *Invited to revise and resubmit at 'Research & Politics.'*
+"Help is Close at Hand? Proximity and the Effectiveness of Peacekeepers" (with Michael Hendricks). *Invited to revise and resubmit at 'Research & Politics.'*
 
 "Rethinking Democratic Diffusion: The Importance of Regime Type Over Geography" (with Sheena Greitens).
 
