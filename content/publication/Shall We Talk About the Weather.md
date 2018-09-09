@@ -1,5 +1,5 @@
 +++
-title = "Should We Talk About the Weather? How Party Competition and Coalition Participation Influence Parties' Attention to Economic Issues."
+title = "Should We Talk About the Weather? How Party Competition and Coalition Participation Influence Parties' Attention to Economic Issues"
 
 # Date first published.
 date = "2018-09-09"
