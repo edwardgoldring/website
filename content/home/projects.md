@@ -52,3 +52,5 @@ filter_default = 0
 "Playing to Win: How Expected Effectiveness Influences United Nations Members' Peacekeeper Contributions" (with Michael Hendricks).
 
 "Explaining Local-Level Effectiveness: A Non-Stationary Analysis of the UN Peacekeeping Operation in the Democratic Republic of the Congo" (with Michael Hendricks and Bryce Reeder).
+
+"The Benefits of a Long Distance Relationship: Why States Choose Far-Flung Alliance Partners."
