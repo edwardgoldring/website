@@ -3,7 +3,7 @@
 title = "Fighting for a Name on the Ballot: Constituency-Level Analysis of Nomination Violence in Africa"
 
 # Date first published.
-date = "2018-11-10"
+date = "2018-03-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Edward Goldring", "Michael Wahman"]
