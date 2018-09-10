@@ -2,7 +2,7 @@
 title = "Should We Talk About the Weather? How Party Competition and Coalition Participation Influence Parties' Attention to Economic Issues"
 
 # Date first published.
-# date = "2018-09-09"
+date = "2018-09-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Edward Goldring", "Brandon 'Beomseob' Park, Laron Williams"]
