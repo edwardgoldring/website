@@ -228,10 +228,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:edward.goldring@mail.missouri.edu"
 
-#  [[params.social]]
- #   icon = "twitter"
-  #  icon_pack = "fa"
-   # link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/EdwardGoldring"
 
   [[params.social]]
     icon = "google-scholar"
