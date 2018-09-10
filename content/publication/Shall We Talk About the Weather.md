@@ -19,7 +19,7 @@ authors = ["Edward Goldring", "Brandon 'Beomseob' Park, Laron Williams"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Party Politics*. Forthcoming."
+publication = "*Party Politics*. Forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
