@@ -37,4 +37,4 @@ weight = 5
 
 I am a PhD Candidate in Political Science at the University of Missouri. My research examines how autocratic leaders maintain and lose power, and I have case expertise in North Korea. I have further research interests in democratization, election manipulation, and peacekeeping. My dissertation explores purges in authoritarian regimes, looking at when leaders decide to purge and various effects of purges.
 
-My work has been published or is forthcoming in journals including Democratization and Africa Spectrum. 
+My work has been published or is forthcoming in journals including *Party Politics*, *Democratization*, *Research & Politics*, and *Africa Spectrum*. 
