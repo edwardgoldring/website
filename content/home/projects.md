@@ -41,8 +41,6 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Help is Close at Hand? Proximity and the Effectiveness of Peacekeepers" (with Michael Hendricks). *Invited to revise and resubmit at 'Research & Politics.'*
-
 "Rethinking Democratic Diffusion: The Importance of Regime Type Over Geography" (with Sheena Greitens).
 
 "Political Dominance and Sub-National Election Violence in Africa" (with Michael Wahman).
