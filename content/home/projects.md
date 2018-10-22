@@ -41,9 +41,9 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Rethinking Democratic Diffusion: The Importance of Regime Type Over Geography" (with Sheena Greitens).
-
 "Repression Technology: How Internet Access Worsens Human Rights in Autocracies."
+
+"Rethinking Democratic Diffusion: The Importance of Regime Type Over Geography" (with Sheena Greitens).
 
 "Political Dominance and Sub-National Election Violence in Africa" (with Michael Wahman).
 
