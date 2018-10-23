@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "Goldring and Hendricks, R&P - 2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://github.com/edwardgoldring/Help-is-Close-at-Hand"
