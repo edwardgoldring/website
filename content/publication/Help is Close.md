@@ -19,7 +19,7 @@ authors = ["Edward Goldring", "Michael Hendricks"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Research & Politics*. Forthcoming"
+publication = "*Research & Politics*,"
 publication_short = ""
 
 # Abstract and optional shortened version.
