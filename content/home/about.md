@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-I am a PhD Candidate in Political Science at the University of Missouri and currently (Fall 2018) a visiting researcher at the LSE. My research examines how autocratic leaders maintain and lose power. I have further research interests in democratization, election manipulation, and peacekeeping. My dissertation examines the causes of purges in dictatorships.
+I am a PhD Candidate in Political Science at the University of Missouri and currently (Fall 2018) a visiting researcher at the LSE. My research examines how autocratic leaders maintain and lose power. I have further research interests in democratization, election manipulation, and peacekeeping. I use qualitative and quantitative methods including spatial econometrics. My dissertation examines the causes of purges in dictatorships.
 
 My work has been published or is forthcoming in journals including *Party Politics*, *Democratization*, *Research & Politics*, and *Africa Spectrum*. 
