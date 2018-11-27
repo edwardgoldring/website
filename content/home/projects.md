@@ -43,7 +43,7 @@ filter_default = 0
 +++
 "Rethinking Democratic Diffusion: The Importance of Regime Type Over Geography" (with Sheena Greitens).
       
-   *Invited to revise and resubmit at 'Comparative Political Studies.'*
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Invited to revise and resubmit at 'Comparative Political Studies.'*
 
 "Repression Technology: How Internet Access Worsens Human Rights in Autocracies."
 
