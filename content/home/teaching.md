@@ -14,6 +14,9 @@ subtitle = ""
 weight = 60
 
 +++
+*Teaching Instructor*
+PS2700 - Comparative Political Systems, Spring 2019.
+
 *Lab Instructor*  
 IPSA-USP: Basics of Spatial Interdependence in Theory and Practice, Spring 2018.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/evaluations-eg.pdf" %}}Teaching evaluation.{{% /staticref %}}  
