@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-*Teaching Instructor*
+*Teaching Instructor*  
 PS2700 - Comparative Political Systems, Spring 2019.
 
 *Lab Instructor*  
