@@ -16,11 +16,11 @@ weight = 60
 +++
 *Teaching Instructor*  
 PS2700 - Comparative Political Systems, Spring 2019.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/PS2700 Syllabus SP2019, Goldring.pdf" %}}Syllabus.{{% /staticref %}}  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/PS2700 Syllabus SP2019, Goldring.pdf" %}}Syllabus{{% /staticref %}}  
 
 *Lab Instructor*  
 IPSA-USP: Basics of Spatial Interdependence in Theory and Practice, Spring 2018.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/evaluations-eg.pdf" %}}Teaching evaluation.{{% /staticref %}}  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/evaluations-eg.pdf" %}}Teaching evaluation{{% /staticref %}}  
 PS3000 - Introduction to Political Research, Fall 2017.  
 PS2700 - Comparative Political Systems, Fall 2016.  
 
