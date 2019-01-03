@@ -44,9 +44,10 @@ filter_default = 0
 "Rethinking Democratic Diffusion: The Importance of Regime Type Over Geography" (with Sheena Greitens).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Invited to revise and resubmit at 'Comparative Political Studies.'*
 
-"Repression Technology: How Internet Access Worsens Human Rights in Autocracies."
+"Political Dominance and Sub-National Election Violence in Africa" (with Michael Wahman).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Invited to revise and resubmit at 'Journal of Peace Research.'*
 
-"Political Dominance and Sub-National Election Violence in Africa" (with Michael Wahman).
+"Repression Technology: How Internet Access Worsens Human Rights in Autocracies."
 
 "Does Peacekeeping Lead to Peaceful Elections? UN Peacekeeping and Election Violence" (with Bryce Reeder).
 
