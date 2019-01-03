@@ -41,7 +41,7 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Rethinking Democratic Diffusion: The Importance of Regime Type Over Geography" (with Sheena Greitens).  
+"Rethinking Democratic Diffusion: The Importance of Regime Type Over Geography" (with Sheena Chestnut Greitens).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Invited to revise and resubmit at 'Comparative Political Studies.'*
 
 "Political Dominance and Sub-National Election Violence in Africa" (with Michael Wahman).  
