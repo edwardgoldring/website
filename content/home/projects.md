@@ -41,7 +41,7 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Rethinking Democratic Diffusion: The Importance of Regime Type Over Geography" (with Sheena Chestnut Greitens).  
+"Rethinking Democratic Diffusion: Bringing Regime Type Back In" (with Sheena Chestnut Greitens).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Conditionally accepted at 'Comparative Political Studies.'*
 
 "Political Dominance and Sub-National Election Violence in Africa" (with Michael Wahman).  
@@ -54,5 +54,3 @@ filter_default = 0
 "Playing to Win: How Expected Effectiveness Influences United Nations Members' Peacekeeper Contributions" (with Michael Hendricks).
 
 "Explaining Local-Level Effectiveness: A Non-Stationary Analysis of the UN Peacekeeping Operation in the Democratic Republic of the Congo" (with Michael Hendricks and Bryce Reeder).
-
-"The Benefits of a Long Distance Relationship: Why States Choose Far-Flung Alliance Partners."
