@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-I am a PhD Candidate in Political Science at the University of Missouri and in academic year 2019/20 will be a predoctoral fellow at the University of Southern California. I research authoritarian survival politics using qualitative and quantitative methods including spatial econometrics.
+I am a PhD Candidate in Political Science at the University of Missouri and in academic year 2019-20 will be a predoctoral fellow at the University of Southern California. I research authoritarian survival politics using qualitative and quantitative methods including spatial econometrics.
 
 My dissertation examines the causes of elite purges in dictatorships. At the national and individual-levels, dictators' incentives and opportunities shape variation in elite purges. Across regimes, dictators take advantage of reduced non-elite-based threats to purge their ruling coalition. Across individuals within dictatorships, signals of disloyalty incentivize dictators to purge elites and they are more likely to act on such signals when they are in a more secure position. Further, dictators use purges as a heuristic to identify further disloyal individuals and conduct additional purges. I test my theory with a range of cross-national and individual-level quantitative and qualitative original data, including individual-level quantitative data on elite purges in Kim Jong Un's North Korea.
 
