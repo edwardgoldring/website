@@ -41,9 +41,6 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Rethinking Democratic Diffusion: Bringing Regime Type Back In" (with Sheena Chestnut Greitens).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Conditionally accepted at 'Comparative Political Studies.'*
-
 "Political Dominance and Sub-National Election Violence in Africa" (with Michael Wahman).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Invited to revise and resubmit at 'Journal of Peace Research.'*
 
