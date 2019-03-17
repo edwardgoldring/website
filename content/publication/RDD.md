@@ -19,7 +19,7 @@ authors = ["Edward Goldring", "Sheena Chestnut Greitens"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Party Politics*"
+publication = "*Comparative Political Studies*"
 publication_short = ""
 
 # Abstract and optional shortened version.
