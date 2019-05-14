@@ -42,7 +42,7 @@ filter_default = 0
 
 +++
 "Political Dominance and Sub-National Election Violence in Africa" (with Michael Wahman).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Invited to revise and resubmit at 'Journal of Peace Research.'*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Conditionally accepted at 'Journal of Peace Research.'*
 
 "Repression Technology: How Internet Access Worsens Human Rights in Autocracies."
 
