@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "http://journals.sagepub.com/doi/pdf/10.1177/1354068818806545"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = "https://github.com/edwardgoldring/Should-We-Talk-About-the-Weather"
