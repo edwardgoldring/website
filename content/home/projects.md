@@ -41,9 +41,6 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Political Dominance and Sub-National Election Violence in Africa" (with Michael Wahman).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Conditionally accepted at 'Journal of Peace Research.'*
-
 "Repression Technology: How Internet Access Worsens Human Rights in Autocracies."
 
 "Does Peacekeeping Lead to Peaceful Elections? UN Peacekeeping and Election Violence" (with Bryce Reeder).
