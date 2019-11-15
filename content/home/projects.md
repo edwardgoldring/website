@@ -41,10 +41,10 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Repression Technology: How Internet Access Worsens Human Rights in Autocracies."
+"Disloyal Elites and Replacement Costs: Individual-Level Elite Purges in Autocracies."
+
+"Explaining Local-Level Effectiveness: A Non-Stationary Analysis of the UN Peacekeeping Operation in the Democratic Republic of the Congo" (with Michael Hendricks and Bryce Reeder).
 
 "Does Peacekeeping Lead to Peaceful Elections? UN Peacekeeping and Election Violence" (with Bryce Reeder).
 
-"Playing to Win: How Expected Effectiveness Influences United Nations Members' Peacekeeper Contributions" (with Michael Hendricks).
-
-"Explaining Local-Level Effectiveness: A Non-Stationary Analysis of the UN Peacekeeping Operation in the Democratic Republic of the Congo" (with Michael Hendricks and Bryce Reeder).
+"Repression Technology: How Internet Access in Autocracies Worsens Human Rights."
