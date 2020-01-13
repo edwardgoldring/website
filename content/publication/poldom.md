@@ -1,8 +1,8 @@
 +++
-title = "Political Dominance and Sub-National Election Violence in Africa"
+title = "Pre-election Violence and Territorial Control: Political Dominance and Subnational Election Violence in Polarized African Electoral Systems"
 
 # Date first published.
-date = "2019-08-20"
+date = "2020-01-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michael Wahman", "Edward Goldring"]
@@ -42,7 +42,7 @@ projects = []
 url_pdf = ""
 url_preprint = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RUIRZF"
 url_project = ""
 url_slides = ""
 url_video = ""
