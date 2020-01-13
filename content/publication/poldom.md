@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/profile/Michael_Wahman/publication/335313630_Pre-election_violence_and_territorial_control_political_dominance_and_subnational_election_violence_in_polarized_African_electoral_systems/links/5d5e072992851c3763714a88/Pre-election-violence-and-territorial-control-political-dominance-and-subnational-election-violence-in-polarized-African-electoral-systems.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://journals.sagepub.com/doi/full/10.1177/0022343319884990"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
