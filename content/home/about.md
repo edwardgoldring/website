@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Authoritarian Politics",
     "Purges",
-    "East Asia"
+    "North Korea, South Korea"
   ]
 
 # List your qualifications (such as academic degrees).
