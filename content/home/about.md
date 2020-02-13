@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Authoritarian Politics",
-    "Election Manipulation",
-    "Peacekeeping"
+    "Purges",
+    "East Asia"
   ]
 
 # List your qualifications (such as academic degrees).
