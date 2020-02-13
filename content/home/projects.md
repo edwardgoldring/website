@@ -41,10 +41,8 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Disloyal Elites and Replacement Costs: Individual-Level Elite Purges in Autocracies."
+"Elite Purges in Dictatorships" (book manuscript, working title)
+
+"When Do Dictators Refrain From Purging Disloyal Elites?"
 
 "Explaining Local-Level Effectiveness: A Non-Stationary Analysis of the UN Peacekeeping Operation in the Democratic Republic of the Congo" (with Michael Hendricks and Bryce Reeder).
-
-"Does Peacekeeping Lead to Peaceful Elections? UN Peacekeeping and Election Violence" (with Bryce Reeder).
-
-"Repression Technology: How Internet Access in Autocracies Worsens Human Rights."
