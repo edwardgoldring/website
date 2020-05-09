@@ -55,16 +55,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Edward Goldring"
-  role = "PhD Candidate in Political Science"
+  role = "Postdoctoral Fellow in the Division of Social Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Missouri", url = "" } ]
+  organizations = [ { name = "The Hong Kong University of Science and Technology", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "edward.goldring@mail.missouri.edu"
-  address = "113 Professional Building, Columbia, MO 65211, USA"
+  email = "edward.goldring@york.ac.uk"
+  address = ""
   office_hours = ""
   phone = ""
   skype = ""
@@ -226,7 +226,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:edward.goldring@mail.missouri.edu"
+    link = "mailto:edward.goldring@york.ac.uk"
 
   [[params.social]]
     icon = "twitter"
