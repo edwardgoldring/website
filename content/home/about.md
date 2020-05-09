@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-I am an incoming (2021-21) Postdoctoral Fellow in the Division of Social Science at The Hong Kong University of Science and Technology, and from September 2021 I will be a Lecturer (Assistant Professor) in the Department of Politics at the University of York in the UK.
+I am an incoming (2020-21) Postdoctoral Fellow in the Division of Social Science at The Hong Kong University of Science and Technology, and from September 2021 I will be a Lecturer (Assistant Professor) in the Department of Politics at the University of York in the UK.
 
 I study non-democratic politics, especially how leaders and regimes stay in power. My book manuscript, *Elite Purges in Dictatorships*, examines how dictators conduct elite purges. My central claim is that a dictator's fear of being unseated by popular protests and foreign adversaries shapes whether to purge elites, who to target, and when to do so. Conversely, existing arguments emphasize how the coup threat informs a dictator's decision to purge.
 
