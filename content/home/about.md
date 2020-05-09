@@ -35,8 +35,8 @@ weight = 5
 
 # Biography
 
-I am a US-Asia Grand Strategy Predoctoral Fellow at the University of Southern California, a Korea Foundation Fellow, and I expect to receive my PhD in Political Science from the University of Missouri in May 2020. I study non-democratic politics, especially how leaders and regimes stay in power.
+I am an incoming (2021-21) Postdoctoral Fellow in the Division of Social Science at The Hong Kong University of Science and Technology, and from September 2021 will be a Lecturer (Assistant Professor) in the Department of Politics at the University of York in the UK. I study non-democratic politics, especially how leaders and regimes stay in power.
 
-My dissertation, *Elite Purges in Dictatorships*, examines how dictators conduct elite purges. My central claim is that a dictator's fear of being unseated by popular protests and foreign adversaries shapes whether to purge elites, who to target, and when to do so. Conversely, existing arguments emphasize how the coup threat informs a dictator's decision to purge. The theory's cross-national and individual-level implications necessitate a diverse set of data and empirical tests. This includes an original global cross-national quantitative dataset on military *and* civilian elite purges, and data on elite politics in Kim Jong Un's North Korea.
+My book manuscript, *Elite Purges in Dictatorships*, examines how dictators conduct elite purges. My central claim is that a dictator's fear of being unseated by popular protests and foreign adversaries shapes whether to purge elites, who to target, and when to do so. Conversely, existing arguments emphasize how the coup threat informs a dictator's decision to purge.
 
 My work has been published or is forthcoming in journals including *Comparative Political Studies*, *Journal of Peace Research*, *Party Politics*, *Democratization*, and *Research & Politics*. 
