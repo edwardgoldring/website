@@ -43,6 +43,6 @@ filter_default = 0
 +++
 "Elite Purges in Dictatorships" (book manuscript, working title)
 
-"Keep Your Enemies Close: When Do Dictators Refrain From Purging Disloyal Elites?"
+"Keep Your Enemies Close: Purging or Retaining Disloyal Elites?"
 
-"Explaining Local-Level Effectiveness: A Non-Stationary Analysis of the UN Peacekeeping Operation in the Democratic Republic of the Congo" (with Michael Hendricks and Bryce Reeder).
+"Measuring Subnational Variation in Peacekeeping Effectiveness" (with Michael Hendricks and Bryce Reeder)
