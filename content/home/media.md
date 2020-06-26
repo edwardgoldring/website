@@ -9,6 +9,8 @@ title = "Media"
 weight = 68
 
 +++
+["Body Politic: Why Kim Jong Un's Health Still Matters."](https://www.nknews.org/2020/06/body-politic-why-kim-jong-uns-health-still-matters/) *NK News*, June 26, 2020.
+
 ["The importance of regime similarity to explain democratic diffusion."](http://www.democraticaudit.com/2019/06/26/the-importance-of-regime-similarity-to-explain-democratic-diffusion/) *Democratic Audit*, June 26, 2019.
 
 ["North Korea is Marching with South Korea at the Olympics Opening Ceremony.
