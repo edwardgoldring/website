@@ -9,6 +9,8 @@ title = "Media"
 weight = 68
 
 +++
+["How Would Joe Biden and Kamala Harris Handle North Korea?"](https://nationalinterest.org/blog/korea-watch/how-would-joe-biden-and-kamala-harris-handle-north-korea-167374) *The National Interest*, August 20, 2020.
+
 ["Body Politic: Why Kim Jong Un's Health Still Matters."](https://www.nknews.org/2020/06/body-politic-why-kim-jong-uns-health-still-matters/) *NK News*, June 26, 2020.
 
 ["The importance of regime similarity to explain democratic diffusion."](http://www.democraticaudit.com/2019/06/26/the-importance-of-regime-similarity-to-explain-democratic-diffusion/) *Democratic Audit*, June 26, 2019.
