@@ -46,3 +46,5 @@ filter_default = 0
 "Keep Your Enemies Close: Purging or Retaining Disloyal Elites?"
 
 "Measuring Subnational Variation in Peacekeeping Effectiveness" (with Michael Hendricks and Bryce Reeder)
+
+"Does Peacekeeping Lead to Peaceful Elections? UN Peacekeeping and Election Violence, 1995-2011" (with Bryce Reeder)
