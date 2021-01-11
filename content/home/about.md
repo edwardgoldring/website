@@ -37,6 +37,6 @@ weight = 5
 
 I am a Postdoctoral Fellow in the Division of Social Science at The Hong Kong University of Science and Technology, and from September 2021 I will be a Lecturer (Assistant Professor) in the Department of Politics at the University of York in the UK.
 
-I study non-democratic politics, especially how leaders and regimes stay in power. My book manuscript, *Elite Purges in Dictatorships*, examines how dictators conduct elite purges. My central claim is that a dictator's fear of being unseated by popular protests and foreign adversaries shapes whether to purge elites, who to target, and when to do so. Conversely, existing arguments emphasize how the coup threat shapes patterns of elite purges.
+I study non-democratic politics, especially how leaders and regimes stay in power. My book manuscript, *Elite Purges in Dictatorships*, examines the causes of elite purges, and their effects on autocratic survival. My central claim is that a dictator's fear of being unseated by popular protests and foreign adversaries shapes whether to purge elites, who to target, and when to do so. Conversely, existing arguments emphasize how the coup threat shapes patterns of elite purges.
 
 My work has been published or is forthcoming in journals including *Comparative Political Studies*, *Journal of Peace Research*, *Party Politics*, *Democratization*, and *Research & Politics*. 
