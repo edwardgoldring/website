@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Selected Projects"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -45,10 +45,4 @@ filter_default = 0
 
 "The Effects of Elite Purges on Attempted and Successful Coups"
 
-"To Purge or Not to Purge? An Individual-level Quantitative Analysis of Elite Purges in Dictatorships" (with Austin Matthews)
-
-"Keeping Up With the Kims: A Social Network Analysis of the Effects of Purges in North Korea" (with Peter Ward)
-
 "Measuring Subnational Variation in Peacekeeping Effectiveness" (with Michael Hendricks and Bryce Reeder)
-
-"Does Peacekeeping Lead to Peaceful Elections? UN Peacekeeping and Election Violence, 1995-2011" (with Bryce Reeder)
