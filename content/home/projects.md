@@ -45,4 +45,4 @@ filter_default = 0
 
 "The Effects of Elite Purges on Attempted and Successful Coups"
 
-"Measuring Subnational Variation in Peacekeeping Effectiveness" (with Michael Hendricks and Bryce Reeder)
+"Measuring Subnational Variation in Peacekeeping Effectiveness" (with Michael Hendricks and Bryce Reeder) - *revise and resubmit*
