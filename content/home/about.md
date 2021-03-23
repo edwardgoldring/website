@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Authoritarian Politics",
+    "Authoritarian politics",
     "Purges",
-    "North Korea, South Korea"
+    "North Korea"
   ]
 
 # List your qualifications (such as academic degrees).
