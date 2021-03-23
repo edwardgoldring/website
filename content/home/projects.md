@@ -41,7 +41,7 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Elite Purges in Dictatorships" (book manuscript, working title)
+"Preserving Power: Elite Purges in Dictatorships" (book manuscript, working title)
 
 "The Effects of Elite Purges on Attempted and Successful Coups"
 
