@@ -45,7 +45,7 @@ filter_default = 0
 
 "The Effects of Elite Purges on Attempted and Successful Coups"
 
-"To Purge or Not to Purge? An Individual-Level Quantitative Analysis of Elite Purges in Dictatorships" (with Austin S. Matthews)
+"To Purge or Not to Purge? An Individual-Level Quantitative Analysis of Elite Purges in Dictatorships" (with Austin S. Matthews) - *revise and resubmit*
 
 "How Do Dictators Manage Their Ruling Coalition to Prepare for Leader Succession? Evidence from North Korea" (with Peter Ward)
 
