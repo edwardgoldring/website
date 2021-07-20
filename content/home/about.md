@@ -35,8 +35,8 @@ weight = 5
 
 # Biography
 
-I am a Postdoctoral Fellow in the Division of Social Science at The Hong Kong University of Science and Technology.
+I am a Lecturer (Assistant Professor) in the Department of Politics at the University of York in the UK.
 
-I study authoritarianism, with a focus on East Asia. My book manuscript, *Preserving Power: Elite Purges in Dictatorships*, examines the causes of elite purges and their effects on autocratic survival. My central claim is that a dictator's fear of being unseated by popular protests and foreign adversaries shapes whether they purge elites, who to target, and when to do so. Conversely, existing arguments emphasize how coup threats shape patterns of elite purges.
+I study authoritarianism, with a focus on East Asia. My book manuscript, *Purges: A Dictator's Fight to Survive*, examines the causes of elite purges and their effects on autocratic survival. I argue that threats to a dictator's survival from the people and foreign states affect patterns of purges, and that purges are not tools of instability, but they help dictators survive.
 
 My work has been published or is forthcoming in journals including *Comparative Political Studies*, *Journal of Peace Research*, *Party Politics*, *Democratization*, and *Research & Politics*. 
