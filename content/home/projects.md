@@ -41,12 +41,16 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Preserving Power: Elite Purges in Dictatorships" (book manuscript, working title)
-
-"The Effects of Elite Purges on Attempted and Successful Coups"
+"Purges: A Dictator's Fight to Survive" (book manuscript, working title)
 
 "To Purge or Not to Purge? An Individual-Level Quantitative Analysis of Elite Purges in Dictatorships" (with Austin S. Matthews) - *revise and resubmit at the British Journal of Political Science*
 
-"How Do Dictators Manage Their Ruling Coalition to Prepare for Leader Succession? Evidence from North Korea" (with Peter Ward)
+"Brothers in Arms No More: An Individual-Level Quantitative Analysis of Elite Purges After Successful Coups" (with Austin S. Matthews)
+
+"The Effects of Elite Purges on Attempted and Successful Coups"
+
+"Elite Management Before Autocratic Leader Succession: Evidence from North Korea" (with Peter Ward)
+
+"China's Surveillance State at Home & Abroad: The Development & Global Export of Chinese Policing Technology" (with Sheena Chestnut Greitens)
 
 "Measuring Subnational Variation in Peacekeeping Effectiveness" (with Michael Hendricks and Bryce Reeder) - *revise and resubmit at International Studies Quarterly*
