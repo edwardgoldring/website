@@ -24,4 +24,4 @@ Does This Mean a Diplomatic Thaw is Coming?"](https://www.washingtonpost.com/new
 
 ["Will U.N. sanctions stop North Korean missile tests? Don’t count on it."](https://www.washingtonpost.com/news/monkey-cage/wp/2017/08/09/will-u-n-sanctions-stop-north-korean-missile-tests-dont-count-on-it/?noredirect=on&utm_term=.34e2ed434be4) *The Washington Post*, August 9, 2017.
 
-["Democracy in Reverse: The 2016 General Election in Zambia."]() *Africa Spectrum* 51(3): 107-121 (with Michael Wahman).
+["Democracy in Reverse: The 2016 General Election in Zambia."](https://journals.sagepub.com/doi/pdf/10.1177/000203971605100306) *Africa Spectrum* 51(3): 107-121 (with Michael Wahman).
