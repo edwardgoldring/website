@@ -41,13 +41,11 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Purges: A Dictator's Fight to Survive" (book manuscript, working title)
+"Purges: A Dictator's Fight to Survive" (book manuscript)
 
 "To Purge or Not to Purge? An Individual-Level Quantitative Analysis of Elite Purges in Dictatorships" (with Austin S. Matthews) - *revise and resubmit at the British Journal of Political Science*
 
 "Brothers in Arms No More: An Individual-Level Quantitative Analysis of Elite Purges After Successful Coups" (with Austin S. Matthews)
-
-"The Effects of Elite Purges on Attempted and Successful Coups"
 
 "Elite Management Before Autocratic Leader Succession: Evidence from North Korea" (with Peter Ward)
 
