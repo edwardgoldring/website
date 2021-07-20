@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-*Teaching Instructor*  
+*Lecturer*  
 PS2700 - Comparative Political Systems, Spring 2019.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/PS2700 Syllabus SP2019, Goldring.pdf" %}}Syllabus{{% /staticref %}}; {{% staticref "files/2700_evaluations.pdf" %}}Teaching evaluation{{% /staticref %}}
 
