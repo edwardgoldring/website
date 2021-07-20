@@ -41,7 +41,7 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"Purges: A Dictator's Fight to Survive" (book manuscript)
+*Purges: A Dictator's Fight to Survive* (book manuscript)
 
 "To Purge or Not to Purge? An Individual-Level Quantitative Analysis of Elite Purges in Dictatorships" (with Austin S. Matthews) - *revise and resubmit at the British Journal of Political Science*
 
