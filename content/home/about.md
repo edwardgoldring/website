@@ -39,4 +39,4 @@ I am a Lecturer (Assistant Professor) in the Department of Politics at the Unive
 
 I study authoritarianism, with a focus on East Asia. My book manuscript, *Purges: A Dictator's Fight to Survive*, examines the causes of elite purges and their effects on autocratic survival. I argue that threats to a dictator's survival from the people and foreign states affect patterns of purges, and that purges are not tools of instability, but they help dictators survive.
 
-My work has been published or is forthcoming in journals including *Comparative Political Studies*, *Journal of Peace Research*, *Party Politics*, *Democratization*, and *Research & Politics*. 
+My work has been published or is forthcoming in journals including *Comparative Political Studies*, *Journal of Peace Research*, and *Democratization*. 
