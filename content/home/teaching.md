@@ -15,16 +15,16 @@ weight = 60
 
 +++
 *Lecturer*  
-PS2700 - Comparative Political Systems, Spring 2019.  
+PS2700 | Comparative Political Systems | Mizzou | Spring 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/PS2700 Syllabus SP2019, Goldring.pdf" %}}Syllabus{{% /staticref %}}; {{% staticref "files/2700_evaluations.pdf" %}}Teaching evaluation{{% /staticref %}}
 
 *Lab Instructor*  
-IPSA-USP: Basics of Spatial Interdependence in Theory and Practice, Spring 2018.  
+Basics of Spatial Interdependence in Theory and Practice | IPSA-USP | Spring 2018  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/evaluations-eg.pdf" %}}Teaching evaluation{{% /staticref %}}  
-PS3000 - Introduction to Political Research, Fall 2017.  
-PS2700 - Comparative Political Systems, Fall 2016.  
+PS3000 | Introduction to Political Research | Mizzou | Fall 2017  
+PS2700 | Comparative Political Systems | Mizzou | Fall 2016  
 
 *Teaching Assistant*  
-PS4700 - America's Wars in Asia, Spring 2017.  
-PS4770 - Comparative Political Behavior, Spring 2016.  
-PS1100 - American Government, Fall 2015.  
+PS4700 | America's Wars in Asia | Mizzou | Spring 2017  
+PS4770 | Comparative Political Behavior | Mizzou | Spring 2016  
+PS1100 | American Government | Mizzou | Fall 2015  
