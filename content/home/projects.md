@@ -47,7 +47,11 @@ filter_default = 0
 
 "Brothers in Arms No More: An Individual-Level Quantitative Analysis of Elite Purges After Successful Coups" (with Austin S. Matthews)
 
+*The Consolidation of Kim Jong Un* (book manuscript, with Peter Ward)
+
 "Elite Management Before Autocratic Leader Succession: Evidence from North Korea" (with Peter Ward)
+
+"Do We Have a Deal? Inferring Closed Autocracies' Intentions Through Sentiment Analysis of Propaganda" (with Ji Yeon (Jean) Hong)
 
 "China's Surveillance State at Home & Abroad: The Development & Global Export of Chinese Policing Technology" (with Sheena Chestnut Greitens)
 
