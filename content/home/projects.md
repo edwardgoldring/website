@@ -43,8 +43,6 @@ filter_default = 0
 +++
 *Purges: A Dictator's Fight to Survive* (book manuscript)
 
-"To Purge or Not to Purge? An Individual-Level Quantitative Analysis of Elite Purges in Dictatorships" (with Austin S. Matthews) - *revise and resubmit at the British Journal of Political Science*
-
 "Brothers in Arms No More: An Individual-Level Quantitative Analysis of Elite Purges After Successful Coups" (with Austin S. Matthews)
 
 *The Consolidation of Kim Jong Un* (book manuscript, with Peter Ward)
