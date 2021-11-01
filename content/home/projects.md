@@ -52,5 +52,3 @@ filter_default = 0
 "Do We Have a Deal? Inferring Closed Autocracies' Intentions Through Sentiment Analysis of Propaganda" (with Ji Yeon (Jean) Hong)
 
 "China's Surveillance State at Home & Abroad: The Development & Global Export of Chinese Policing Technology" (with Sheena Chestnut Greitens)
-
-"Measuring Subnational Variation in Peacekeeping Effectiveness" (with Michael Hendricks and Bryce Reeder) - *revise and resubmit at International Studies Quarterly*
