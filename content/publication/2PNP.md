@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://github.com/edwardgoldring/website/blob/c7c719e8fd272ce9bc3d42b82cf3d96a4b7aa489/static/files/2PNP_MainDocument_Accepted.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = "https://github.com/edwardgoldring/2PNP"
@@ -52,6 +52,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "PDF", url = "https://github.com/edwardgoldring/website/blob/c7c719e8fd272ce9bc3d42b82cf3d96a4b7aa489/static/files/2PNP_MainDocument_Accepted.pdf"}]
 
 # Does the content use math formatting?
 math = false
