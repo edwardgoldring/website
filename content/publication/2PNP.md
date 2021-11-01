@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "<embed src="https://files.github.io/2PNP_MainDocument_Accpeted.pdf" type="application/pdf" />"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://github.com/edwardgoldring/2PNP"
