@@ -5,7 +5,7 @@ title = "To Purge or Not to Purge? An Individual-Level Quantitative Analysis of 
 date = "2021-09-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Edwward Goldring", "Austin S. Matthews"]
+authors = ["Edward Goldring", "Austin S. Matthews"]
 
 # Publication type.
 # Legend:
@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://github.com/edwardgoldring/website/blob/2d52e9b921c42c42db06777825dc3a8ec73313a6/static/files/2PNP_MainDocument_Accepted.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://github.com/edwardgoldring/2PNP"
