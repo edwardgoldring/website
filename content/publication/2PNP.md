@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "{{% staticref "files/goldring_cv.pdf" %}}Download my CV{{% /staticref %}}"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = "https://github.com/edwardgoldring/2PNP"
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "{{% staticref "files/goldring_cv.pdf" %}}Download my CV{{% /staticref %}}"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
