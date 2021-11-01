@@ -5,7 +5,7 @@ title = "To Purge or Not to Purge? An Individual-Level Quantitative Analysis of 
 date = "2021-09-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Edwaard Goldring", "Austin S. Matthews"]
+authors = ["Edward Goldring", "Austin S. Matthews"]
 
 # Publication type.
 # Legend:
