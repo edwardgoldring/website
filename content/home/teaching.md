@@ -15,7 +15,7 @@ weight = 60
 
 +++
 *Lecturer*  
-POL00050I | Political Enquiry in Politics | York | Spring 2022 (scheduled)  
+POL00050I | Political Enquiry in Politics | York | Spring 2022  
 POL00077M | Comparative Institutions and Public Policy | York | Fall 2021  
 POL00002C | Introduction to Democratic Politics | York | Fall 2021  
 PS2700 | Comparative Political Systems | Mizzou | Spring 2019  
