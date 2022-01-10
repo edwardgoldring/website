@@ -15,13 +15,13 @@ weight = 60
 
 +++
 *Graduate*  
-POL00077M | Comparative Institutions and Public Policy | York | Fall 2021  
+Comparative Institutions and Public Policy | York | Fall 2021  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/00077M_evaluations.pdf" %}}Teaching evaluation{{% /staticref %}}  
 Spatial Interdependence in Theory and Practice (lab instructor) | IPSA-USP | Spring 2018  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/evaluations-eg.pdf" %}}Teaching evaluation{{% /staticref %}}  
 
 *Undergraduate*  
-POL00050I | Political Enquiry in Politics | York | Spring 2022  
-POL00002C | Introduction to Democratic Politics | York | Fall 2021  
-PS2700 | Comparative Political Systems | Mizzou | Spring 2019  
+Political Enquiry in Politics | York | Spring 2022  
+Introduction to Democratic Politics | York | Fall 2021  
+Comparative Political Systems | Mizzou | Spring 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/2700_evaluations.pdf" %}}Teaching evaluation{{% /staticref %}}
