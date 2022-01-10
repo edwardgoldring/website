@@ -9,6 +9,8 @@ title = "Other Writing"
 weight = 68
 
 +++
+["The Logic of Autocratic Purges."](https://politicalviolenceataglance.org/2022/01/10/the-logic-of-autocratic-purges/) *Political Violence at a Glance*, January 10, 2022.
+
 ["Review of *The Great Successor: The Divinely Perfect Destiny of Brilliant Comrade Kim Jong Un*."](https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/great-successor-the-divinely-perfect-destiny-of-brilliant-comrade-kim-jong-un-by-anna-fifield-new-york-publicaffairs-2019-336-pp-isbn-9781541742482-cloth/F6C3BF5234F87760733618840D3B0106) *Journal of Asian Studies* 79(4): 1013-1014.
 
 ["How Would Joe Biden and Kamala Harris Handle North Korea?"](https://nationalinterest.org/blog/korea-watch/how-would-joe-biden-and-kamala-harris-handle-north-korea-167374) *The National Interest*, August 20, 2020.
