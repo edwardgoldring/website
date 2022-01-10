@@ -17,7 +17,7 @@ weight = 60
 *Graduate*  
 POL00077M | Comparative Institutions and Public Policy | York | Fall 2021  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/00077M_evaluations.pdf" %}}Teaching evaluation{{% /staticref %}}  
-Basics of Spatial Interdependence in Theory and Practice (lab instructor) | IPSA-USP | Spring 2018  
+Spatial Interdependence in Theory and Practice (lab instructor) | IPSA-USP | Spring 2018  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/evaluations-eg.pdf" %}}Teaching evaluation{{% /staticref %}}  
 
 *Undergraduate*  
