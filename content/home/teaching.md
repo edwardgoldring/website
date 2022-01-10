@@ -14,21 +14,14 @@ subtitle = ""
 weight = 60
 
 +++
-*Lecturer*  
-POL00050I | Political Enquiry in Politics | York | Spring 2022  
+*Graduate*
 POL00077M | Comparative Institutions and Public Policy | York | Fall 2021  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/00077M_evaluations.pdf" %}}Teaching evaluation{{% /staticref %}}  
+Basics of Spatial Interdependence in Theory and Practice (lab instructor) | IPSA-USP | Spring 2018  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/evaluations-eg.pdf" %}}Teaching evaluation{{% /staticref %}}  
+
+*Undergraduate*
+POL00050I | Political Enquiry in Politics | York | Spring 2022  
 POL00002C | Introduction to Democratic Politics | York | Fall 2021  
 PS2700 | Comparative Political Systems | Mizzou | Spring 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/2700_evaluations.pdf" %}}Teaching evaluation{{% /staticref %}}
-
-*Lab Instructor*  
-Basics of Spatial Interdependence in Theory and Practice | IPSA-USP | Spring 2018  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/evaluations-eg.pdf" %}}Teaching evaluation{{% /staticref %}}  
-PS3000 | Introduction to Political Research | Mizzou | Fall 2017  
-PS2700 | Comparative Political Systems | Mizzou | Fall 2016  
-
-*Teaching Assistant*  
-PS4700 | America's Wars in Asia | Mizzou | Spring 2017  
-PS4770 | Comparative Political Behavior | Mizzou | Spring 2016  
-PS1100 | American Government | Mizzou | Fall 2015  
