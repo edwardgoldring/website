@@ -1,6 +1,6 @@
 +++
 # Fieldwork widget.
-active = true
+active = false
 date = 2017-01-01
 
 title = "Fieldwork"
