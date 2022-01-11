@@ -273,8 +273,8 @@ enableGitInfo = false
   weight = 4
 
   [[menu.main]]
-  name = "Media"
-  url = "#media"
+  name = "Other Writing"
+  url = "#other-writing"
   weight = 5
   
   [[menu.main]]
