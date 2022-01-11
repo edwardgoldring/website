@@ -1,9 +1,9 @@
 +++
-# Other Writing widget.
+# Media widget.
 active = true
 date = 2017-01-01
 
-title = "Other Writing"
+title = "Media"
 
 # Order that this section will appear in.
 weight = 68
