@@ -43,7 +43,7 @@ filter_default = 0
 +++
 *Purges: A Dictator's Fight to Survive* (book manuscript)
 
-"The Effects of Elite Purges on a Dictator's Popular Approval: An Online Survey Experiment in Egypt and Vietnam"
+"The Effects of Elite Purges on a Dictator's Popular Approval: An Online Survey Experiment in Vietnam"
 
 "Brothers in Arms No Longer: Who Do Regime Change Coup-Entry Dictators Purge?" (with Austin S. Matthews)
 
