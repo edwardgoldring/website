@@ -42,7 +42,7 @@ projects = []
 url_pdf = ""
 url_preprint = ""
 url_code = ""
-url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RUIRZF"
+url_dataset = "https://journals.sagepub.com/doi/suppl/10.1177/0022343319884990"
 url_project = ""
 url_slides = ""
 url_video = ""
