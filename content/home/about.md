@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Authoritarian politics",
-    "Purges",
+    "Comparative authoritarianism",
+    "Elite politics",
     "North Korea"
   ]
 
