@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://github.com/edwardgoldring/website/blob/2d52e9b921c42c42db06777825dc3a8ec73313a6/static/files/2PNP_MainDocument_Accepted.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = "https://github.com/edwardgoldring/2PNP"
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/to-purge-or-not-to-purge-an-individuallevel-quantitative-analysis-of-elite-purges-in-dictatorships/B2879A96F4E6BE9D6B0AA6DCA9AAF539"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
