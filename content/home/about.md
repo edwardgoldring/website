@@ -37,6 +37,6 @@ weight = 5
 
 I am a Lecturer (Assistant Professor) in the [Department of Politics at the University of York](https://www.york.ac.uk/politics/). I study authoritarian politics, mainly from a global comparative perspective, as well as sometimes focusing on North Korea.
 
-My book manuscript, *Purges: A Dictator's Fight to Survive*, examines the causes of elite purges and their effects on autocratic survival. I argue that dictators purge elites preemptively to consolidate power, to punish them for insubordination, and to scapegoat them to alleviate popular threats. Further, rather than fomenting instability, purges help dictators survive.
+My book manuscript, *Purges: A Dictator's Fight to Survive*, examines the causes of elite purges and their effects on autocratic survival. I argue that dictators purge elites to consolidate power, punish them for insubordination, and scapegoat them to alleviate popular threats. Further, rather than fomenting instability, purges help dictators survive.
 
 My work has been published or is forthcoming in journals including *British Journal of Political Science*, *Comparative Political Studies*, *International Studies Quarterly*, *Journal of Peace Research*, and *Democratization*. 
