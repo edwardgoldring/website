@@ -41,7 +41,7 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-*Purges: A Dictator's Fight to Survive* (book manuscript)
+*Purges: How Dictators Fight to Survive* (book manuscript)
 
 "The Effects of Elite Purges on a Dictator's Popular Approval: An Online Survey Experiment in Turkey"
 
