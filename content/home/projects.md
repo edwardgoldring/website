@@ -45,7 +45,7 @@ filter_default = 0
 
 "The Effects of Elite Purges on a Dictator's Popular Approval: An Online Survey Experiment in Turkey"
 
-"Brothers in Arms No Longer: Who Do Regime Change Coup-Entry Dictators Purge?" (with Austin S. Matthews)
+"Brothers in Arms No Longer: Who Do Regime Change Coup-Entry Dictators Purge?" (with Austin S. Matthews) - *revise & resubmit*
 
 *North Korea's Succession from Kim Jong Il to Kim Jong Un: Empowering the Leader and Elite Regeneration* (book manuscript, with Peter Ward)
 
