@@ -21,7 +21,7 @@ Spatial Interdependence in Theory and Practice (lab instructor) | IPSA-USP | Spr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/evaluations-eg.pdf" %}}Evaluation{{% /staticref %}}  
 
 *Undergraduate*  
-Empirical Research Design | York | Fall 2023
+Empirical Research Design | York | Fall 2023  
 Political Enquiry in Politics | York | Spring 2022  
 Introduction to Democratic Politics | York | Fall 2021, Fall 2022  
 Comparative Political Systems | Mizzou | Spring 2019  
