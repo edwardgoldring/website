@@ -15,12 +15,13 @@ weight = 60
 
 +++
 *Graduate*  
-Comparative Institutions and Public Policy | York | Fall 2021, Fall 2022  
+Comparative Institutions and Public Policy | York | Fall 2021, Fall 2022, Fall 2023  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/00077M_evaluations.pdf" %}}Evaluation Fall 2021{{% /staticref %}}  
 Spatial Interdependence in Theory and Practice (lab instructor) | IPSA-USP | Spring 2018  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{% staticref "files/evaluations-eg.pdf" %}}Evaluation{{% /staticref %}}  
 
 *Undergraduate*  
+Empirical Research Design | York | Fall 2023
 Political Enquiry in Politics | York | Spring 2022  
 Introduction to Democratic Politics | York | Fall 2021, Fall 2022  
 Comparative Political Systems | Mizzou | Spring 2019  
