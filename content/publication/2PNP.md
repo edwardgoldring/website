@@ -2,7 +2,7 @@
 title = "To Purge or Not to Purge? An Individual-Level Quantitative Analysis of Elite Purges in Dictatorships"
 
 # Date first published.
-date = "2021-09-14"
+date = "2023-04-04"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Edward Goldring", "Austin S. Matthews"]
