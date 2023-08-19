@@ -52,3 +52,5 @@ filter_default = 0
 *North Korea's Succession from Kim Jong Il to Kim Jong Un: Empowering the Leader and Elite Regeneration* (book manuscript, with Peter Ward)
 
 "Elite Management Before Autocratic Leader Succession: Evidence from North Korea" (with Peter Ward) - *revise & resubmit*
+
+"The Varieties of Regular Leadership Transitions in Autocracies" (with Austin S. Matthews and Peter Ward)
