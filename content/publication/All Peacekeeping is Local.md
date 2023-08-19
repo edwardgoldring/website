@@ -2,7 +2,7 @@
 title = "All Peacekeeping is Local: Measuring Subnational Variation in Peacekeeping Effectiveness"
 
 # Date first published.
-date = "2021-08-01"
+date = "2022-06-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Edward Goldring", "Michael Hendricks", "Bryce W. Reeder"]
