@@ -2,7 +2,7 @@
 title = "Pre-election Violence and Territorial Control: Political Dominance and Subnational Election Violence in Polarized African Electoral Systems"
 
 # Date first published.
-date = "2020-01-09"
+date = "2020-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michael Wahman", "Edward Goldring"]
