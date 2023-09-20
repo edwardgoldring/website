@@ -47,8 +47,6 @@ filter_default = 0
 
 "The Effects of Blame Shifting Strategies Following Large-scale Disasters: Evidence from Turkey" (with Jonas Willibald Schmid and Fulya Apaydin)
 
-"Brothers in Arms No Longer: Who Do Regime Change Coup-Entry Dictators Purge?" (with Austin S. Matthews) - *accepted*
-
 *North Korea's Succession from Kim Jong Il to Kim Jong Un: Empowering the Leader and Elite Regeneration* (book manuscript, with Peter Ward)
 
 "Elite Management Before Autocratic Leader Succession: Evidence from North Korea" (with Peter Ward) - *revise & resubmit*
