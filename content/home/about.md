@@ -39,4 +39,4 @@ I am a Lecturer (Assistant Professor) in the [Department of Politics at the Univ
 
 My book manuscript, *Purges: How Dictators Fight to Survive*, examines the causes of elite purges and their effects on autocratic survival. I argue that dictators purge elites to consolidate power, punish them for insubordination, and scapegoat them to alleviate popular threats. Further, rather than fomenting instability, purges help dictators survive.
 
-My work has been published in journals including *British Journal of Political Science*, *Comparative Political Studies*, *International Studies Quarterly*, *Journal of Peace Research*, and *Democratization*. 
+My work has been published in journals including *British Journal of Political Science*, *Comparative Political Studies*, and *Journal of Conflict Resolution*. 
