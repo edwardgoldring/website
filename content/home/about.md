@@ -35,8 +35,8 @@ weight = 5
 
 # Biography
 
-I am a Lecturer (Assistant Professor) in the [Department of Politics at the University of York](https://www.york.ac.uk/politics/). I study authoritarian politics, mainly from a global comparative perspective, and have a particular interest in North Korea.
+I am a Lecturer in the [Department of Politics at the University of York](https://www.york.ac.uk/politics/). I study authoritarian politics, mainly from a global comparative perspective, and have a particular interest in North Korea.
 
-I am currently working on two main projects. First, a book manuscript, *Purges: How Dictators Fight to Survive*, examines the causes and effects of elite purges. I argue that dictators purge elites to consolidate power, punish them for insubordination, and scapegoat them to alleviate popular threats. Further, rather than fomenting instability, purges help dictators survive. Second, I am also working on a project on how dictators manage elites to facilitate succession, based on quantitative and qualitative data from North Korea.
+I am currently working on two main projects. First, a book manuscript, *Purges: How Dictators Fight to Survive*, examines the causes and effects of elite purges. I argue that dictators purge elites to consolidate power, punish insubordination, and scapegoat them to alleviate popular threats. Rather than fomenting instability, purges help dictators survive. Second, I am working on a project on how dictators manage elites to facilitate succession, based on quantitative and qualitative data from North Korea.
 
-My work has been published in journals including *British Journal of Political Science*, *Comparative Political Studies*, and *Journal of Conflict Resolution*. 
+My work has been published or is forthcoming in journals including *World Politics*, *British Journal of Political Science*, *Comparative Political Studies*, and *Journal of Conflict Resolution*. 
