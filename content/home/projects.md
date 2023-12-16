@@ -47,6 +47,6 @@ filter_default = 0
 
 "The Effects of Blame Shifting Strategies Following Large-scale Disasters: Evidence from Turkey" (with Jonas Willibald Schmid and Fulya Apaydin)
 
-*North Korea's Succession from Kim Jong Il to Kim Jong Un: Empowering the Leader and Elite Regeneration* (book manuscript, with Peter Ward)
+*Authoritarian Survival and Leadership Succession in North Korea* (book manuscript, with Peter Ward)
 
 "The Varieties of Regular Leadership Transitions in Autocracies" (with Austin S. Matthews and Peter Ward)
