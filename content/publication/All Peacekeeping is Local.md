@@ -5,7 +5,7 @@ title = "All Peacekeeping is Local: Measuring Subnational Variation in Peacekeep
 date = "2022-06-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Edward Goldring", "Michael Hendricks", "Bryce W. Reeder"]
+authors = ["Bryce W. Reeder", "Michael Hendricks", "Edward Goldring"]
 
 # Publication type.
 # Legend:
