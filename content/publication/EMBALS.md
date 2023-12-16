@@ -2,7 +2,7 @@
 title = "Elite Management Before Autocratic Leader Succession: Evidence from North Korea"
 
 # Date first published.
-date = "2024-07-01"
+date = "2023-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Edward Goldring", "Peter Ward"]
