@@ -2,7 +2,7 @@
 title = "Rethinking Democratic Diffusion: Bringing Regime Type Back In"
 
 # Date first published.
-date = "2020-02-02"
+date = "2020-12-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Edward Goldring", "Sheena Chestnut Greitens"]
