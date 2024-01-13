@@ -11,7 +11,7 @@ weight = 68
 +++
 ["The Kims Aren't Just Looking at Things: What Leadership Events Can Tell Us About North Korean Politics."](https://www.wilsoncenter.org/publication/kims-arent-just-looking-things-what-leadership-events-can-tell-us-about-north-korean) *The National Committee on North Korea* and the *Woodrow Wilson Center*, September 2022.
 
-["Before categorising autocracies, we need to count them accurately."](https://theloop.ecpr.eu/before-categorising-autocracies-we-need-to-count-them-accurately/) *The Loop*, August 12, 2022.
+["Before Categorising Autocracies, We Need to Count Them Accurately."](https://theloop.ecpr.eu/before-categorising-autocracies-we-need-to-count-them-accurately/) *The Loop*, August 12, 2022.
 
 ["The Logic of Autocratic Purges."](https://politicalviolenceataglance.org/2022/01/10/the-logic-of-autocratic-purges/) *Political Violence at a Glance*, January 10, 2022.
 
