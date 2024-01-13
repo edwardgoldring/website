@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "edward.goldring@york.ac.uk"
+  email = "edward.goldring@unimelb.edu.au"
   address = ""
   office_hours = ""
   phone = ""
@@ -226,7 +226,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:edward.goldring@york.ac.uk"
+    link = "mailto:edward.goldring@unimelb.edu.au"
 
   [[params.social]]
     icon = "twitter"
