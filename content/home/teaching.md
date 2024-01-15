@@ -19,6 +19,7 @@ Comparative Institutions and Public Policy | York | Fall 2021, Fall 2022, Fall 2
 Spatial Interdependence in Theory and Practice (lab instructor) | IPSA-USP | Spring 2018    
 
 *Undergraduate*  
+Comparative Politics | Melbourne | Fall 2024  
 Empirical Research Design | York | Fall 2023  
 Political Enquiry | York | Spring 2022  
 Introduction to Democratic Politics | York | Fall 2021, Fall 2022  
