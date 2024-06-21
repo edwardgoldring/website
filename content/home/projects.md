@@ -43,10 +43,12 @@ filter_default = 0
 +++
 *Purges: How Dictators Fight to Survive* (book manuscript)
 
-"The Effects of Scapegoating Purges on Autocratic Popular Approval: Evidence from Turkey"
+"The Effects of a Scapegoating Purge on Autocratic Popular Approval: Evidence from Turkey"
 
 "The Effects of Blame Shifting Strategies Following Large-scale Disasters: Evidence from Turkey" (with Jonas Willibald Schmid and Fulya Apaydin)
 
-*Authoritarian Survival and Leadership Succession in North Korea* (book manuscript, with Peter Ward) - *under contract with The Cambridge Elements series on Politics and Society in East Asia*
+*Authoritarian Survival and Leadership Succession in North Korea and Beyond* (book manuscript, with Peter Ward) - *under contract with The Cambridge Elements series on Politics and Society in East Asia*
 
 "The Varieties of Regular Leadership Transitions in Autocracies" (with Austin S. Matthews and Peter Ward)
+
+"Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset (with Anne Meng)
