@@ -51,4 +51,4 @@ filter_default = 0
 
 "The Varieties of Regular Leadership Transitions in Autocracies" (with Austin S. Matthews and Peter Ward)
 
-"Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset (with Anne Meng)
+"Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng)
