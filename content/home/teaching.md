@@ -15,7 +15,7 @@ weight = 60
 
 +++
 *Graduate*  
-Asia-Pacific: Zone of Conflict or Peace? | Melbourne | Spring 2024    
+Asia Pacific: Zone of Conflict or Peace? | Melbourne | Spring 2024    
 Comparative Institutions and Public Policy | York | Fall 2021, Fall 2022, Fall 2023    
 Spatial Interdependence in Theory and Practice (lab instructor) | IPSA-USP | Spring 2018    
 
