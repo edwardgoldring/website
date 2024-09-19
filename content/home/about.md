@@ -37,6 +37,4 @@ weight = 5
 
 I am a Lecturer in Political Science (Comparative Politics) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). I study authoritarian politics, mainly from a global comparative perspective, and have a particular interest in North Korea.
 
-I am currently working on two main projects. First, a book manuscript, *Purges: How Dictators Fight to Survive*, examines the causes and effects of elite purges. I argue that dictators purge elites to consolidate power, punish insubordination, and scapegoat them to alleviate popular threats. Rather than fomenting instability, purges help dictators survive. Second, I am working on a project about how dictators manage elites to facilitate succession, which uses quantitative and qualitative data from North Korea.
-
-My work has been published or is forthcoming in journals including *British Journal of Political Science*, *Comparative Political Studies*, *Journal of Conflict Resolution*, and *World Politics*.
+My research primarily examines how autocratic leaders and regimes maintain power, focusing especially on elite politics. My main ongoing projects focus on the causes and effects of elite purges in dictatorships, and on succession in autocracy. My work on these topics, and autocratic politics more broadly, has been published or is forthcoming in outlets including *British Journal of Political Science*, *Comparative Political Studies*, *Journal of Conflict Resolution*, *World Politics*, and with Cambridge University Press.
