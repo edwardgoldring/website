@@ -47,6 +47,10 @@ filter_default = 0
 
 "The Effects of Blame Shifting Strategies Following Large-scale Disasters: Evidence from Turkey" (with Jonas Willibald Schmid and Fulya Apaydin)
 
-"The Varieties of Regular Leadership Transitions in Autocracies" (with Austin S. Matthews and Peter Ward)
+"The Varieties of Autocratic Regular Leadership Transitions and Leader Duration" (with Austin S. Matthews and Peter Ward)
 
 "Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng)
+
+"The Autocratic Job Market: Succession and Popular Approval in Uganda" (with Rebecca Tapscott)
+
+*Teaching Autocracy and Autocratic Politics* (editor for book manuscript) - under contract with *Edward Elgar Publishing*
