@@ -1,7 +1,7 @@
 +++
 # Books widget.
 # This widget displays books from `content/publication/`.
-widget = "books"
+widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
