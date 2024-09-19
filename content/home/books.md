@@ -9,7 +9,7 @@ title = "Books"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 19
 
 # Number of publications to list.
 count = 10
