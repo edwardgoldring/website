@@ -1,7 +1,7 @@
 +++
 # Recent Books widget.
-# This widget displays recent books from `content/books/`.
-widget = "books"
+# This widget displays recent books from `content/publication/`.
+widget = "publication"
 active = true
 date = 2016-04-20T00:00:00
 
