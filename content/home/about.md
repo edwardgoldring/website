@@ -35,8 +35,8 @@ weight = 5
 
 # Biography
 
-I am a Lecturer in Political Science (Comparative Politics) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). I study authoritarian politics, mainly from a global comparative perspective, and have a particular interest in North Korea.
+I am a Lecturer in Political Science (Comparative Politics) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). I study authoritarian politics, mainly from a global comparative perspective, but also have a particular interest in North Korea.
 
 My research primarily examines how autocratic leaders and regimes maintain power, focusing especially on elite politics. My main ongoing projects are on the causes and effects of elite purges in dictatorships, and on succession in autocracy.
 
-My work on these topics, and on related areas of autocratic politics, has been published or is forthcoming in outlets including *British Journal of Political Science*, *Comparative Political Studies*, *Journal of Conflict Resolution*, *World Politics*, and Cambridge University Press.
+My work on these topics, and on related areas of autocratic politics, has been published or is forthcoming in outlets including *British Journal of Political Science*, *Comparative Political Studies*, *Journal of Conflict Resolution*, *World Politics*, and with Cambridge University Press.
