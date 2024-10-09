@@ -43,8 +43,6 @@ filter_default = 0
 +++
 *Purges: How Dictators Fight to Survive* (book manuscript)
 
-"The Effects of a Scapegoating Purge on Autocratic Popular Approval: Evidence from Turkey"
-
 "The Effects of Blame Shifting Strategies Following Large-scale Disasters: Evidence from Turkey" (with Jonas Willibald Schmid and Fulya Apaydin)
 
 "The Varieties of Autocratic Regular Leadership Transitions and Leader Duration" (with Austin S. Matthews and Peter Ward)
