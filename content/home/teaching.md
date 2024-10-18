@@ -21,8 +21,8 @@ Spatial Interdependence in Theory and Practice (lab instructor) | IPSA-USP | Spr
 
 *Undergraduate*  
 Autocratic Politics | Melbourne | Spring 2025   
-Comparative Politics | Melbourne | Fall 2024, Fall 2025 
-Empirical Research Design | York | Fall 2023  
-Political Enquiry | York | Spring 2022  
-Introduction to Democratic Politics | York | Fall 2021, Fall 2022  
-Comparative Political Systems | Mizzou | Spring 2019  
+Comparative Politics | Melbourne | Fall 2024, Fall 2025    
+Empirical Research Design | York | Fall 2023     
+Political Enquiry | York | Spring 2022     
+Introduction to Democratic Politics | York | Fall 2021, Fall 2022     
+Comparative Political Systems | Mizzou | Spring 2019     
