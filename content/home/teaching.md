@@ -15,12 +15,13 @@ weight = 60
 
 +++
 *Graduate*  
-Asia Pacific: Zone of Conflict or Peace? | Melbourne | Spring 2024    
+Asia Pacific: Zone of Conflict or Peace? | Melbourne | Spring 2024 | Spring 2025    
 Comparative Institutions and Public Policy | York | Fall 2021, Fall 2022, Fall 2023    
 Spatial Interdependence in Theory and Practice (lab instructor) | IPSA-USP | Spring 2018    
 
 *Undergraduate*  
-Comparative Politics | Melbourne | Fall 2024  
+Autocratic Politics | Melbourne | Spring 2025
+Comparative Politics | Melbourne | Fall 2024 | Fall 2025 
 Empirical Research Design | York | Fall 2023  
 Political Enquiry | York | Spring 2022  
 Introduction to Democratic Politics | York | Fall 2021, Fall 2022  
