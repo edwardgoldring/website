@@ -2,7 +2,7 @@
 title = "Authoritarian Survival and Leadership Succession in North Korea and Beyond"
 
 # Date first published.
-date = "2024-09-01"
+date = "2025-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Edward Goldring", "Peter Ward"]
