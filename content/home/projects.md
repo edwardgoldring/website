@@ -41,7 +41,7 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-*Purges: How Dictators Fight to Survive* (book manuscript)
+*Purges: How Dictators Fight to Survive* (book manuscript) - under contract with *Cornell University Press*
 
 "The Effects of Blame Shifting Strategies Following Large-scale Disasters: Evidence from Turkey" (with Jonas Willibald Schmid and Fulya Apaydin)
 
