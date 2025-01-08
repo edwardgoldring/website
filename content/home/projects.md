@@ -43,12 +43,18 @@ filter_default = 0
 +++
 *Purges: How Dictators Fight to Survive* (book manuscript) - under contract with *Cornell University Press*
 
+*Succession* (book manuscript, with Austin S. Matthews)
+
 "The Effects of Blame Shifting Strategies Following Large-scale Disasters: Evidence from Turkey" (with Jonas Willibald Schmid and Fulya Apaydin)
+
+"Military Purges and Authoritarian Leader Survival" (with Austin S. Matthews)
 
 "The Varieties of Autocratic Regular Leadership Transitions and Leader Duration" (with Austin S. Matthews and Peter Ward)
 
 "Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng)
 
 "The Autocratic Job Market: Succession and Popular Approval in Uganda" (with Rebecca Tapscott)
+
+"Exporting Authoritarian Social Control? Drivers and Effects of China's Surveillance Technology Transfers" (with Sheena Chestnut Greitens)
 
 *Teaching Autocracy and Autocratic Politics* (editor for book manuscript) - under contract with *Edward Elgar Publishing*
