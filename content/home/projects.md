@@ -45,7 +45,7 @@ filter_default = 0
 
 *Succession* (book manuscript, with Austin S. Matthews)
 
-"The Effects of Blame Shifting Strategies Following Large-scale Disasters: Evidence from Turkey" (with Jonas Willibald Schmid and Fulya Apaydin) - *conditionally accepted at Perspectives on Politics*
+"{{% staticref "files/GSA_PoP_FinalPDF.pdf" %}}The Effects of Blame Shifting Strategies Following Large-scale Disasters: Evidence from Turkey{{% /staticref %}}" - conditionally accepted at *Perspectives on Politics*
 
 "Military Purges and Authoritarian Leader Survival" (with Austin S. Matthews)
 
