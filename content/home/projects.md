@@ -45,7 +45,7 @@ filter_default = 0
 
 *Succession* (book manuscript, with Austin S. Matthews)
 
-"{{% staticref "files/GSA_PoP_FinalPDF.pdf" %}}Blame Shifting in Autocracies Following Large-scale Disasters: Evidence from Turkey{{% /staticref %}}" - conditionally accepted at *Perspectives on Politics*
+"{{% staticref "files/GSA_PoP_FinalPDF.pdf" %}}Blame Shifting in Autocracies Following Large-scale Disasters: Evidence from Turkey{{% /staticref %}}" - accepted at *Perspectives on Politics*
 
 "Military Purges and Authoritarian Leader Survival" (with Austin S. Matthews)
 
