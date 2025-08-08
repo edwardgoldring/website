@@ -49,8 +49,6 @@ filter_default = 0
 
 "Military Purges and Authoritarian Leader Survival" (with Austin S. Matthews)
 
-"The Varieties of Autocratic Regular Leadership Transitions and Leader Duration" (with Austin S. Matthews and Peter Ward)
-
 "Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng)
 
 "The Autocratic Job Market: Succession and Popular Approval in Uganda" (with Rebecca Tapscott)
