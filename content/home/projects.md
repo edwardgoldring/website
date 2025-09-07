@@ -43,9 +43,7 @@ filter_default = 0
 +++
 *Purges: How Dictators Fight to Survive* (book manuscript) - under contract with *Cornell University Press*
 
-*Succession* (book manuscript, with Austin S. Matthews)
-
-"Military Purges and Authoritarian Leader Survival" (with Austin S. Matthews)
+"A Faustian Bargain: Military Purges and Autocratic Leader Survival" (with Austin S. Matthews)
 
 "Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng)
 
