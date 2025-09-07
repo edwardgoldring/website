@@ -39,4 +39,4 @@ I am a Senior Lecturer in Political Science (Comparative Politics) at the [Unive
 
 My research primarily examines how autocratic leaders and regimes maintain power. My main ongoing projects are on purges and succession under autocracy.
 
-My work on these topics, and on related areas of autocratic politics, has been published or is forthcoming in outlets including the *British Journal of Political Science*, *Comparative Political Studies*, *Journal of Conflict Resolution*, *Perspectives on Politics*, *World Politics*, and with Cambridge University Press.
+My work on these topics, and on related areas of autocratic politics, has been published or is forthcoming in outlets including the *British Journal of Political Science*, *Comparative Political Studies*, *Journal of Conflict Resolution*, *Perspectives on Politics*, *World Politics*, and with Cambridge and Cornell University Presses.
