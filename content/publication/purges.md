@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "{{% staticref "files/goldring_cv.pdf" %}}Download my CV{{% /staticref %}}"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
