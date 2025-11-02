@@ -39,7 +39,8 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/Goldring_Purges_OnlineAppendix_2026.pdf"
+url_pdf_label = "Online Appendix"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
