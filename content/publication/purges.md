@@ -39,8 +39,12 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "/files/Goldring_Purges_OnlineAppendix_2026.pdf"
-url_pdf_label = "Online Appendix"
+links:
+  - name: "Online Appendix"
+    url: "/files/Goldring_Purges_OnlineAppendix_2026.pdf"
+    icon_pack: "fas"
+    icon: "file-pdf"
+
 url_preprint = ""
 url_code = ""
 url_dataset = ""
