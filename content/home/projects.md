@@ -49,7 +49,7 @@ filter_default = 0
 
 "The Autocratic Job Market: Succession and Popular Approval in Uganda" (with Rebecca Tapscott)
 
-"Succession in Uganda: What Do Ugandan Citizens Think of Muhoozi Kainerugaba?" (with Rebecca Tapscott) - revise and resubmit with *African Affairs*
+"Succession in Uganda: What Do Ugandan Citizens Think of Muhoozi Kainerugaba?" (with Rebecca Tapscott) - revise and resubmit at *African Affairs*
 
 "Exporting Authoritarian Social Control? Drivers and Effects of China's Surveillance Technology Transfers" (with Sheena Chestnut Greitens)
 
