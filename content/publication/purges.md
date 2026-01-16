@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.degruyterbrill.com/document/isbn/9781501787577/html?lang=en&srsltid=AfmBOorNlIUSrshzAtbrjjtLagWii4jsS66IS3S82xt58seWI6Uct550"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
