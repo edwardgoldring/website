@@ -47,7 +47,7 @@ filter_default = 0
 
 "Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng)
 
-"The Autocratic Job Market: Succession and Popular Approval in Uganda" (with Rebecca Tapscott)
+"The Autocratic Job Market:\\What Do Citizens in Autocracies Think About Succession?" (with Rebecca Tapscott)
 
 "Exporting Authoritarian Social Control? Drivers and Effects of China's Surveillance Technology Transfers" (with Sheena Chestnut Greitens)
 
