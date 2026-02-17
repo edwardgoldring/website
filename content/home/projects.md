@@ -43,11 +43,11 @@ filter_default = 0
 +++
 *Purges: How Dictators Fight to Survive* (book manuscript) - under contract with *Cornell University Press*
 
-"A Faustian Bargain: Military Purges and Autocratic Leader Survival" (with Austin S. Matthews)
+"A Faustian Bargain: Military Purges and Coups in Dictatorships" (with Austin S. Matthews)
 
 "Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng)
 
-"The Autocratic Job Market:\\What Do Citizens in Autocracies Think About Succession?" (with Rebecca Tapscott)
+"How Autocrats Should Exit and Enter: Citizen Preferences over Succession in Authoritarian Regimes" (with Rebecca Tapscott)
 
 "Exporting Authoritarian Social Control? Drivers and Effects of China's Surveillance Technology Transfers" (with Sheena Chestnut Greitens)
 
