@@ -89,12 +89,3 @@
 {{ end }}
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
-```
-
-The only change is line 27, from:
-```
-{{ if (.Params.publication_types) and (ne (index .Params.publication_types 0) "0") }}
-```
-to:
-```
-{{ if and (.Params.publication_types) (ne (index .Params.publication_types 0) "0") }}
