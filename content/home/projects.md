@@ -45,9 +45,11 @@ filter_default = 0
 
 "A Faustian Bargain: Military Purges and Coups in Dictatorships" (with Austin S. Matthews)
 
-"Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng)
-
 "How Autocrats Should Exit and Enter: Citizen Preferences over Succession in Authoritarian Regimes" (with Rebecca Tapscott)
+
+"How Propaganda Affects an Autocratic Successor's Popularity: The Case of Uganda's Muhoozi Kainerugaba" (with Rebecca Tapscott)
+
+"Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng)
 
 "Exporting Authoritarian Social Control? Drivers and Effects of China's Surveillance Technology Transfers" (with Sheena Chestnut Greitens)
 
