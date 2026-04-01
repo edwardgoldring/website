@@ -5,5 +5,4 @@
 [build.environment]
   HUGO_VERSION = "0.55.6"
   HUGO_EXTENDED = "true"
-
-  
+  MISE_DISABLE_TOOLS = "hugo,hugo-extended"
