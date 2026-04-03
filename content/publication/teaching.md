@@ -2,7 +2,7 @@
 title = "Teaching Autocracy and Autocratic Politics"
 
 # Date first published.
-date = "2026-09-09"
+date = "2026-07-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Edward Goldring (editor)"]
