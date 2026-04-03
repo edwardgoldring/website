@@ -41,7 +41,9 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-*Purges: How Dictators Fight to Survive* (book manuscript) - under contract with *Cornell University Press*
+*Purges: How Dictators Fight to Survive* (book manuscript) - to be published in August 2026 with *Cornell University Press*
+
+*Teaching Autocracy and Autocratic Politics* (editor for book manuscript) - to be published in July 2026 with *Edward Elgar Publishing*
 
 "A Faustian Bargain: Military Purges and Coups in Dictatorships" (with Austin S. Matthews)
 
@@ -52,5 +54,3 @@ filter_default = 0
 "Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng)
 
 "Exporting Authoritarian Social Control? Drivers and Effects of China's Surveillance Technology Transfers" (with Sheena Chestnut Greitens)
-
-*Teaching Autocracy and Autocratic Politics* (editor for book manuscript) - under contract with *Edward Elgar Publishing*
