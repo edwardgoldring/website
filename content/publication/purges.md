@@ -2,7 +2,7 @@
 title = "Purges: How Dictators Fight to Survive"
 
 # Date first published.
-date = "2026-12-12"
+date = "2026-08-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Edward Goldring"]
