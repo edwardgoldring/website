@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://academic.oup.com/afraf/advance-article/doi/10.1093/afraf/adag014/8586274?utm_source=authortollfreelink&utm_campaign=afraf&utm_medium=email&guestAccessKey="
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
