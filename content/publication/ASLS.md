@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.cambridge.org/core/books/authoritarian-survival-and-leadership-succession-in-north-korea-and-beyond/1D1C44767A9120DF883A297B771EDF08"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
