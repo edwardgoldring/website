@@ -35,8 +35,8 @@ weight = 5
 
 # Biography
 
-I am a Senior Lecturer in Political Science (Comparative Politics) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). I study authoritarian politics, mainly from a global comparative perspective, but I also have a particular interest in North Korea.
+Welcome! I'm a Senior Lecturer in Political Science (Comparative Politics) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). I study authoritarian politics, globally and specifically on North Korea, with my main ongoing work focusing on purges and succession under autocracy.
 
-My research primarily examines how autocratic leaders and regimes maintain power. My main ongoing projects are on purges and succession under autocracy.
+My first book, [*Purges: How Dictators Fight to Survive*](https://www.cornellpress.cornell.edu/book/9781501787560/purges/#bookTabs=1), was published with Cornell University Press in 2026.
 
-My work on these topics, and on related areas of autocratic politics, has been published or is forthcoming in outlets including the *British Journal of Political Science*, *Comparative Political Studies*, *Journal of Conflict Resolution*, *Perspectives on Politics*, *World Politics*, and with Cambridge and Cornell University Presses.
+Related work has been published by [Cambridge University Press](https://www.cambridge.org/core/books/authoritarian-survival-and-leadership-succession-in-north-korea-and-beyond/1D1C44767A9120DF883A297B771EDF08) and in journals including the *British Journal of Political Science*, *Comparative Political Studies*, *Journal of Conflict Resolution*, *Perspectives on Politics*, and *World Politics*. The article in *World Politics* won the 2025 best article award from the Democracy and Autocracy Section of the American Political Science Association.
