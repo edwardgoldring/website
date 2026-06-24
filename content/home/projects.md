@@ -41,11 +41,7 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-*Purges: How Dictators Fight to Survive* (book) - to be published in August 2026 with *Cornell University Press*
-
-*Teaching Autocracy and Autocratic Politics* (editor for book) - to be published in July 2026 with *Edward Elgar Publishing*
-
-"A Faustian Bargain: Military Purges and Coups in Dictatorships" (with Austin S. Matthews)
+"The Purge Paradox: How Military Purges Invite, Yet Hinder, Coups in Autocracies" (with Austin S. Matthews)
 
 "How Autocrats Should Exit and Enter: Citizen Preferences over Succession in Authoritarian Regimes" (with Rebecca Tapscott)
 
