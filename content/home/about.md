@@ -35,8 +35,8 @@ weight = 5
 
 # Biography
 
-Welcome! I'm a Senior Lecturer in Political Science (Comparative Politics) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). I study authoritarian politics, globally and specifically on North Korea, with my main ongoing work focusing on purges and succession under autocracy.
+Welcome! I'm a Senior Lecturer in Political Science (Comparative Politics) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). I research authoritarian politics, globally and specifically on North Korea, with my main ongoing work focusing on purges and succession under autocracy.
 
 My first book, [*Purges: How Dictators Fight to Survive*](https://www.cornellpress.cornell.edu/book/9781501787560/purges/#bookTabs=1), was published with Cornell University Press in 2026.
 
-Related work has been published by [Cambridge University Press](https://www.cambridge.org/core/books/authoritarian-survival-and-leadership-succession-in-north-korea-and-beyond/1D1C44767A9120DF883A297B771EDF08) and in journals including the *British Journal of Political Science*, *Comparative Political Studies*, *Journal of Conflict Resolution*, *Perspectives on Politics*, and *World Politics*. The article in *World Politics* won the 2025 Best Article Award from the Democracy and Autocracy Section of the American Political Science Association.
+Related work has been published by [Cambridge University Press](https://www.cambridge.org/core/books/authoritarian-survival-and-leadership-succession-in-north-korea-and-beyond/1D1C44767A9120DF883A297B771EDF08) and in journals including the *British Journal of Political Science*, *Comparative Political Studies*, *Journal of Conflict Resolution*, *Perspectives on Politics*, and *World Politics*. The [article](https://piirs.princeton.edu/news/2025/%E2%80%98world-politics%E2%80%99-articles-receive-recognition-american-political-science-association) in *World Politics* won the 2025 Best Article Award from the Democracy and Autocracy Section of the American Political Science Association.
