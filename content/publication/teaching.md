@@ -2,7 +2,7 @@
 title = "Teaching Autocracy and Autocratic Politics"
 
 # Date first published.
-date = "2026-07-01"
+date = "2026-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Edward Goldring (editor)"]
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.e-elgar.com/shop/gbp/teaching-autocracy-and-autocratic-politics-9781035353453.html?srsltid=AfmBOoq6W7kKaWOM4yVfsJYO1BlteuS-QfM0uNog0hWnVcKNrqVBc6MF"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
