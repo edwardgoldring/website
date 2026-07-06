@@ -16,12 +16,12 @@ weight = 60
 +++
 *Graduate*  
 Asia Pacific: Zone of Conflict or Peace? | Melbourne | Spring 2024, Spring 2025, Spring 2026    
-Comparative Politics | RUC International Summer School | Summer 2026    
 Geospatial Social Science Analysis | IPSA-NUS | Summer 2025    
 Comparative Institutions and Public Policy | York | Fall 2021, Fall 2022, Fall 2023    
 
 *Undergraduate*  
 Authoritarian Politics | Melbourne | Spring 2025, Spring 2026   
+Comparative Politics | RUC International Summer School | Summer 2026    
 Comparative Politics | Melbourne | Fall 2024, Fall 2025, Fall 2026    
 Empirical Research Design | York | Fall 2023     
 Political Enquiry | York | Spring 2022     
