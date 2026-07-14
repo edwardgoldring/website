@@ -47,4 +47,4 @@ filter_default = 0
 
 "How Propaganda Affects an Autocratic Successor's Popularity: The Case of Uganda's Muhoozi Kainerugaba" (with Rebecca Tapscott)
 
-"Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng)
+"Rules to Live (and Die) By: Introducting the Global Succession Rules Dataset" (with Anne Meng) - *revise and resubmit*
