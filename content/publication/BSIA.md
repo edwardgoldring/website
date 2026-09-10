@@ -2,7 +2,7 @@
 title = "Blame Shifting in Autocracies Following Large-scale Disasters: Evidence from Turkey"
 
 # Date first published.
-date = "2025-08-08"
+date = "2026-09-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Edward Goldring", "Jonas Willibald Schmid", "Fulya Apaydin"]
