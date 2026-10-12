@@ -41,7 +41,7 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-"The Purge Paradox: How Military Purges Invite, Yet Hinder, Coups in Autocracies" (with Austin S. Matthews) - *reject and resubmit*
+"The Purge Paradox: How Military Purges Invite, Yet Hinder, Coups in Autocracies" (with Austin S. Matthews)
 
 "How Autocrats Should Exit and Enter: Citizen Preferences over Succession in Authoritarian Regimes" (with Rebecca Tapscott)
 
